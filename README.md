@@ -1,5 +1,7 @@
 # nodejs-typescript-jest-template
 
+Working Node.js + TypeScript + Jest (unit test) + Express app
+
 ## Tech Stack
 
 Code:
